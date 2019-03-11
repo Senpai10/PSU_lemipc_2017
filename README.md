@@ -35,5 +35,5 @@ To run, type "make tests_run"
 
 **Authors**
 
-Guilhem AMARDEILH
+Thibault HEBERT
 Charly DAI
